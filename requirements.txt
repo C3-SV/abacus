@@ -11,9 +11,10 @@ colorama
 dataclasses-json
 distro
 dotenv
-faiss-cpu
+faiss-cpu==1.7.4
 fastapi
 frozenlist
+google-cloud-secret-manager
 greenlet
 h11
 httpcore
